@@ -1,3 +1,4 @@
 ## Misiones
 
-investigar los planes de Thanos
+investigar los planes de Thanos.
+Capturarlo.
