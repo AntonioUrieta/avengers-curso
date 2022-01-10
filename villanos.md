@@ -1,3 +1,3 @@
  * D. Doom
  * Dr. Strange
- * Dr. Herrera
+ * Capitan America
