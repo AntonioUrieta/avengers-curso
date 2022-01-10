@@ -1,0 +1,2 @@
+ * D. Doom
+ * Dr. Strange
